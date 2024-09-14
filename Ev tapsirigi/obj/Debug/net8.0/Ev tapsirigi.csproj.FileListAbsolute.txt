@@ -1,0 +1,4 @@
+C:\Users\hemze\source\repos\Ev tapsirigi\Ev tapsirigi\obj\Debug\net8.0\Ev tapsirigi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hemze\source\repos\Ev tapsirigi\Ev tapsirigi\obj\Debug\net8.0\Ev tapsirigi.AssemblyInfoInputs.cache
+C:\Users\hemze\source\repos\Ev tapsirigi\Ev tapsirigi\obj\Debug\net8.0\Ev tapsirigi.AssemblyInfo.cs
+C:\Users\hemze\source\repos\Ev tapsirigi\Ev tapsirigi\obj\Debug\net8.0\Ev tapsirigi.csproj.CoreCompileInputs.cache
